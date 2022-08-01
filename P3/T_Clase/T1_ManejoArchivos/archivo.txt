@@ -1,0 +1,10 @@
+Estupendo día para estudiar Python
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta eros 
+felis, scelerisque facilisis arcu molestie vel. Curabitur euismod nisl nec
+orci rhoncus, vel lobortis diam posuere. Nunc bibendum est massa, 
+a vestibulum nulla volutpat eget. Praesent a consequat ante. Mauris 
+egestas tortor et orci volutpat, a vestibulum nibh cursus. Vivamus 
+sed euismod nulla. Sed id vulputate ex. Donec malesuada in ante sed 
+feugiat. Morbi ullamcorper molestie elit eu ultrices. Donec dignissim enim 
+et facilisis rhoncus. Quisque in leo vulputate nibh suscipit consectetur et nec massa. 
+Cras posuere ac risus at rhoncus. Phasellus commodo nisi sed tellus molestie pulvinar.
