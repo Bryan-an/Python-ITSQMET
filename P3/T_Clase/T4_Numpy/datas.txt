@@ -1,0 +1,3 @@
+Nombres,Apellidos,Curso
+Diego,González,Primero
+Andrés,Ibarra,Segundo
